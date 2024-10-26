@@ -1,7 +1,10 @@
 # Exercise-04c-Enemies
 
 ## Implementation
-
+Crouching Button-shift
+Sliding Button-Q
+Attack Button-R
+InGame music
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
